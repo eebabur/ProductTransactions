@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProductTransactions</string>
+    <string name="transactions">transactions</string>
+    <string name="product_label">Transactions for</string>
+    <string name="total_transaction_label">Total £:</string>
+    <string name="base_currency_label">£</string>
+    <string name="product_list_label">Products</string>
+</resources>
